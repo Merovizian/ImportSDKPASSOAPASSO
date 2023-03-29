@@ -1,4 +1,4 @@
-package ifes.eric.importsdkdemo;
+package ifes.drone.importsdkdemo;
 
 import org.junit.Test;
 

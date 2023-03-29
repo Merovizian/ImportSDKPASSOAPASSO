@@ -1,4 +1,4 @@
-package ifes.eric.importsdkdemo;
+package ifes.drone.importsdkdemo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ifes.eric.importsdkdemo", appContext.getPackageName());
+        assertEquals("ifes.drone.importsdkdemo", appContext.getPackageName());
     }
 }
